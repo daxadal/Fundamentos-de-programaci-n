@@ -1,0 +1,13 @@
+Este juego se juega entre dos jugadores. 
+Se lanza un dado y se anota la puntuación de la cara superior en un contador. 
+Los jugadores, por turnos, voltean el dado sobre una de las aristas de la
+cara inferior, de manera que queda en la cara superior una de las que estaban
+en un lateral y se suma la puntuación de esta cara a la anotada inicialmente 
+en el contador. Pierde el primero que eleva la suma a 50 o más puntos.
+
+Los giros se identifican por los cuatro puntos cardinales: Norte, Sur, Este
+u Oeste. Cada giro volteará el dado sobre una de sus cuatro aristas inferiores. 
+- El sur sobre la arista inferior de la cara frontal
+- El este sobre la arista lateral derecha
+- El oeste sobre la arista lateral izquierda
+- El norte sobre la arista posterior

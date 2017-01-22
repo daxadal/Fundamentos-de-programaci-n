@@ -1,0 +1,40 @@
+administrador
+Eric
+9 5 12 6 5 3
+
+daxadal _
+lunargenta
+13 1 3 3 4 2
+
+daxteradal _
+elfosastre
+6 4 7 2 0 0
+
+furiadal !
+guerrero
+1 0 0 0 0 0
+
+furadal !
+orgrimar
+1 0 1 0 0 0
+
+GLaDOS _
+cakeisalie
+1 0 0 0 0 0
+
+wheatley !
+notamorron
+1 0 0 0 0 0
+
+turret _
+targetlost
+1 0 0 0 0 0
+
+chell !
+test_user
+1 0 1 1 0 1
+
+ezio _
+auditore
+1 0 0 0 1 0
+

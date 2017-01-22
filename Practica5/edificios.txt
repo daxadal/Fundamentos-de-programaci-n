@@ -1,0 +1,113 @@
+569
+Fac. Alquimia
+750
+-50
+-45
+2
+
+968
+Fac. Astrologia
+200
+-100
+-95
+2
+
+1000
+Rectorado
+9500
+975
+85
+1
+
+1325
+Fac. Geologia
+950
+50
+0
+1
+
+1546
+Fac. Informatica
+1000
+160
+20
+1
+
+2361
+Fac. Aeronautica
+3000
+250
+55
+1
+
+3649
+Fac. Derecho
+1400
+35
+35
+1
+
+3689
+Fac. Fisica
+1500
+175
+25
+1
+
+4215
+Fac. Quimica
+1500
+150
+50
+1
+
+5149
+Fac. Odontologia
+2500
+60
+40
+1
+
+5152
+Fac. Industriales
+2500
+250
+50
+1
+
+5341
+Fac. Matematicas
+900
+200
+15
+1
+
+5784
+Fac. Biologia
+1750
+220
+5
+0
+
+5846
+Fac. Medicina
+3000
+825
+75
+1
+
+7542
+Fac. Veterinaria
+1600
+100
+40
+1
+
+9867
+Edif. Multiusos
+500
+0
+0
+2
+
+-1

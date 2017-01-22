@@ -1,0 +1,16 @@
+El juego consta de dos jugadores: la computadora y el usuario.
+En cada jugada, la computadora elige primero su elemento
+y luego te pide a ti que lo elijas.
+Si ambos son el mismo elemento, se produce un empate.
+Si no, el ganador se establece segun las siguientes reglas:
+- Las tijeras ganan al papel (lo cortan)
+- El papel gana a la piedra (la envuelve)
+- La piedra gana al lagarto (lo aplasta)
+- El lagarto gana a Spock (lo envenena)
+- Spock gana a las tijeras (las rompe)
+- Las tijeras ganan al lagarto (lo decapitan)
+- El lagarto gana al papel (lo devora)
+- El papel gana a Spock (lo desautoriza)
+- Spock gana a la piedra (la vaporiza)
+- La piedra gana a las tijeras (las aplasta)
+XXX

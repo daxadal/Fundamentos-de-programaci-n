@@ -1,0 +1,52 @@
+SrRector
+rector
+Jefatura UCM
+9635
+1115
+
+1000
+3649
+4215
+-1
+
+Eric
+Garcia
+UCM Games
+6600
+600
+
+5846
+-1
+
+daxadal
+lunargenta
+ADAL SL
+1550
+415
+
+1325
+1546
+2361
+7542
+-1
+
+Estudiante
+ucm
+Asociacion UCM
+1350
+370
+
+3689
+5152
+5341
+-1
+
+no_user
+no_pass
+Void Affairs
+3000
+0
+
+-1
+
+X
